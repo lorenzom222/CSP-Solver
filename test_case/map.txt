@@ -1,0 +1,14 @@
+map
+Map Coloring CSP with 10 regions, 4 colors, and 20 binary constraints (seed=12345)
+A B C D E F G H I J
+A B I J G
+B I A J C F
+C G H B F E
+D F H
+E I F C H
+F D E B C I
+G C A
+H C J D E
+I B E J A F
+J H B I A
+a b c d
